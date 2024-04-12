@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Core.Enums
 {
-    internal enum ClassType
+    public enum ClassType
     {
+        Backend = 1,
+        FrontEnd
 
     }
 }

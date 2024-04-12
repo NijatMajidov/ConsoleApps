@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\MiniConsoleApp\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\user\\Desktop\\MiniConsoleApp\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\MiniConsoleApp\\Core\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
