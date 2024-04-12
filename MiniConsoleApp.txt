@@ -1,0 +1,31 @@
+Console app yaradirsiz Menu:
+1.Classroom yarat
+2.Student yarat
+3.Butun Telebeleri ekrana cixart
+4.Secilmis sinifdeki telebeleri ekrana cixart
+5.Telebe sil (Verilmis id olan telbeni taparaq silecek) eger telebe tapilmasa StudentNotFoundException(Ozunuz yaradirsiz) qaytaracaq
+ps:sinif yoxdusa telbe yaradila bilmesin(ClasroomNotFoundException)
+
+Classroom classinda olacaqlar
+Id oz-oz luyunde artacaq
+Name
+Student arrayi olsun
+Sinifin Type olsun-Enum olacaq(Backend ve Student)
+Type=Backend olsa sinifin limiti 20
+Type=FrontEnd olsa sinifin limiti 15 olsun
+StudentAdd methoduvuz olsun.
+FindId-methodunuz id qebul edecek ve hemin id uygun telebeni qaytaracaq
+Delete-methodunuz id qebul edib ve hemin id uygun telebeni arrayden silecek
+
+
+Student classinda olacaqlar
+Id oz-oz luyunde artacaq
+Name,
+SurName
+
+Bir helper classiviz olsun
+Name,Surname check etsin adlar boyuk herfle baslamali-extensions seklinde)
+Name 1 den cox soz olmamali ve en azi uzunlugu 3 olmali
+bu dediklerim Surname-de aiddir
+Classroom-un adi 2 boyuk herf 3 reqemden ibaret olmalidi
+verilen her hansi serti odemese yeniden girilmeyi teleb etsin ve obyect yaranmasin
