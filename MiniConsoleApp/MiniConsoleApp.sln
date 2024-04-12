@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniConsoleApp", "MiniConsoleApp\MiniConsoleApp.csproj", "{96449D8A-94A4-440C-849B-268D3A693D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96449D8A-94A4-440C-849B-268D3A693D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96449D8A-94A4-440C-849B-268D3A693D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96449D8A-94A4-440C-849B-268D3A693D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96449D8A-94A4-440C-849B-268D3A693D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AACEA0D-3379-4F91-A179-222499E29321}
+	EndGlobalSection
+EndGlobal
