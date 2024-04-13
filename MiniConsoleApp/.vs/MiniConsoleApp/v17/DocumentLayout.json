@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96449D8A-94A4-440C-849B-268D3A693D45}|MiniConsoleApp\\MiniConsoleApp.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96449D8A-94A4-440C-849B-268D3A693D45}|MiniConsoleApp\\MiniConsoleApp.csproj|solutionrelative:miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\models\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\enums\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\enums\\classtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96449D8A-94A4-440C-849B-268D3A693D45}|MiniConsoleApp\\MiniConsoleApp.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96449D8A-94A4-440C-849B-268D3A693D45}|MiniConsoleApp\\MiniConsoleApp.csproj|solutionrelative:miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "MiniConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
               "RelativeToolTip": "MiniConsoleApp\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwDEAAAAFAAAA",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAQwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T18:00:33.014Z",
               "IsPinned": true,
@@ -49,51 +45,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Helper.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\Helper.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Helper.cs",
-              "RelativeToolTip": "Core\\Models\\Helper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Title": "School.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\School.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\School.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\School.cs",
+              "RelativeToolTip": "Core\\Models\\School.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T18:53:18.773Z",
+              "WhenOpened": "2024-04-13T18:01:42.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClassType.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Enums\\ClassType.cs",
-              "RelativeDocumentMoniker": "Core\\Enums\\ClassType.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Enums\\ClassType.cs",
-              "RelativeToolTip": "Core\\Enums\\ClassType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T18:13:36.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Classroom.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Classroom.cs",
               "RelativeToolTip": "Core\\Models\\Classroom.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwFEAAAAVAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T18:07:29.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Student.cs",
               "RelativeToolTip": "Core\\Models\\Student.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T18:05:27.539Z",
               "EditorCaption": ""

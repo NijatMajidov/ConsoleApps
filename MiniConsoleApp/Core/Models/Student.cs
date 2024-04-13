@@ -9,7 +9,7 @@ namespace Core.Models
     public class Student
     {
         static int _id;
-        public int Id { get; set; }
+        public int Id { get; }
         public string Name { get; set; }
         public string Surname { get; set; }
 
@@ -22,8 +22,7 @@ namespace Core.Models
 
         public override string ToString()
         {
-             return $"{Id} {Name} {Surname}";
-        }
-          
+             return $"{Id} | {Name}  | {Surname}";
+        }    
     }
 }
