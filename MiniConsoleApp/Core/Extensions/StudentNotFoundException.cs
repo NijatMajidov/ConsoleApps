@@ -8,7 +8,7 @@ namespace Core.Extensions
 {
     internal class StudentNotFoundException : Exception
     {
-        public StudentNotFoundException(string message = "Not student with Id found") : base(message)
+        public StudentNotFoundException(string message = "No students were found with this ID") : base(message)
         {
         }
     }

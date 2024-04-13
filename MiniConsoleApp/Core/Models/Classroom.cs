@@ -15,13 +15,14 @@ namespace Core.Models
         public int Id { get;}
         public string Name { get; set; }
         public ClassType ClassType { get; set; }
-
+        private int _studentIdCounter;
         public Student[] Students;
 
         public int Limit;
         public Classroom(string name, byte type)
         {
             Id = ++_id;
+            _studentIdCounter = 0;
             Students = new Student[0];
             Name = name;
             if(type == 1)
@@ -43,6 +44,7 @@ namespace Core.Models
         {
             if (Limit < Students.Length+1) Console.WriteLine("Doludur!");
             else{
+                student.Id = ++_studentIdCounter;
                 Array.Resize(ref Students, Students.Length + 1);
                 Students[Students.Length - 1] = student;
                 Console.WriteLine($"{student.Name} ugurla {Name}-e elave edildi\n");

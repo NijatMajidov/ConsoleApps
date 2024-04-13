@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\models\\school.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\extensions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\extensions\\studentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{96449D8A-94A4-440C-849B-268D3A693D45}|MiniConsoleApp\\MiniConsoleApp.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96449D8A-94A4-440C-849B-268D3A693D45}|MiniConsoleApp\\MiniConsoleApp.csproj|solutionrelative:miniconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|solutionrelative:core\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22AE1D9-D26D-4BD2-A761-435A2839B1D2}|Core\\Core.csproj|c:\\users\\user\\desktop\\consoleapp\\miniconsoleapp\\core\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "MiniConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\MiniConsoleApp\\Program.cs",
               "RelativeToolTip": "MiniConsoleApp\\Program.cs",
-              "ViewState": "AQIAAIUAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAALcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T18:00:33.014Z",
               "IsPinned": true,
@@ -44,26 +44,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "School.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\School.cs",
-              "RelativeDocumentMoniker": "Core\\Models\\School.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\School.cs",
-              "RelativeToolTip": "Core\\Models\\School.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAWAAAA",
+              "DocumentIndex": 0,
+              "Title": "StudentNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Extensions\\StudentNotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\StudentNotFoundException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Extensions\\StudentNotFoundException.cs",
+              "RelativeToolTip": "Core\\Extensions\\StudentNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T18:01:42.758Z",
+              "WhenOpened": "2024-04-13T21:01:30.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Classroom.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Classroom.cs",
               "RelativeDocumentMoniker": "Core\\Models\\Classroom.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Classroom.cs",
               "RelativeToolTip": "Core\\Models\\Classroom.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCsAAAApAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T18:07:29.154Z",
               "EditorCaption": ""
@@ -76,10 +76,9 @@
               "RelativeDocumentMoniker": "Core\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\MiniConsoleApp\\Core\\Models\\Student.cs",
               "RelativeToolTip": "Core\\Models\\Student.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T18:05:27.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T18:05:27.539Z"
             }
           ]
         }
