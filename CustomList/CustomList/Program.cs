@@ -1,4 +1,6 @@
-﻿namespace CustomList
+﻿using System.Threading.Channels;
+
+namespace CustomList
 {
     internal class Program
     {
@@ -12,8 +14,9 @@
             list.Add(4);
             list.Add(5);
             list.Reverse();
-
+            list.ForEach(Console.WriteLine);
             
+
         }
     }
 }

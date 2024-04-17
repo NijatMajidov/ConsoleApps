@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\CustomList.csproj": {}
+    "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\CustomList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\CustomList.csproj": {
+    "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\CustomList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\CustomList.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\CustomList.csproj",
         "projectName": "CustomList",
-        "projectPath": "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\CustomList.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\CustomList.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

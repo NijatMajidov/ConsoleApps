@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CustomList\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|c:\\users\\user\\desktop\\customlist\\customlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|solutionrelative:customlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|c:\\users\\user\\desktop\\consoleapp\\customlist\\customlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|solutionrelative:customlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|c:\\users\\user\\desktop\\customlist\\customlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|solutionrelative:customlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|c:\\users\\user\\desktop\\consoleapp\\customlist\\customlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91596517-2DB0-470A-97FA-6C9EF96F41C0}|CustomList\\CustomList.csproj|solutionrelative:customlist\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomList.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\CustomList.cs",
-              "RelativeDocumentMoniker": "CustomList\\CustomList.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\CustomList.cs",
-              "RelativeToolTip": "CustomList\\CustomList.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwDIAAAAiAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\Program.cs",
+              "RelativeDocumentMoniker": "CustomList\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\Program.cs",
+              "RelativeToolTip": "CustomList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T20:08:07.733Z",
+              "WhenOpened": "2024-04-16T20:01:16.139Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\Program.cs",
-              "RelativeDocumentMoniker": "CustomList\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CustomList\\CustomList\\Program.cs",
-              "RelativeToolTip": "CustomList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\CustomList.cs",
+              "RelativeDocumentMoniker": "CustomList\\CustomList.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\ConsoleApp\\CustomList\\CustomList\\CustomList.cs",
+              "RelativeToolTip": "CustomList\\CustomList.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwHYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T20:01:16.139Z",
+              "WhenOpened": "2024-04-16T20:08:07.733Z",
               "EditorCaption": ""
             }
           ]
