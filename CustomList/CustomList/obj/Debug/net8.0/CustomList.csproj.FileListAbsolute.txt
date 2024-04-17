@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CustomList\CustomList\bin\Debug\net8.0\CustomList.exe
+C:\Users\user\Desktop\CustomList\CustomList\bin\Debug\net8.0\CustomList.deps.json
+C:\Users\user\Desktop\CustomList\CustomList\bin\Debug\net8.0\CustomList.runtimeconfig.json
+C:\Users\user\Desktop\CustomList\CustomList\bin\Debug\net8.0\CustomList.dll
+C:\Users\user\Desktop\CustomList\CustomList\bin\Debug\net8.0\CustomList.pdb
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\CustomList.AssemblyInfo.cs
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\CustomList.dll
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\refint\CustomList.dll
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\CustomList.pdb
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\CustomList.genruntimeconfig.cache
+C:\Users\user\Desktop\CustomList\CustomList\obj\Debug\net8.0\ref\CustomList.dll
