@@ -15,8 +15,14 @@ namespace CustomList
             list.Add(5);
             list.Reverse();
             list.ForEach(Console.WriteLine);
-            
+            Console.WriteLine("_----------------------");
 
+            List<int> list2 = new List<int>();
+            list2.Add(1);
+            list2.Add(2);
+            list2.Add(3);
+            list.AddRange(list2);
+            list.ForEach(Console.WriteLine);
         }
     }
 }
