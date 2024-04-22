@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\bin\Debug\net8.0\JsonAndXml.exe
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\bin\Debug\net8.0\JsonAndXml.deps.json
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\bin\Debug\net8.0\JsonAndXml.runtimeconfig.json
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\bin\Debug\net8.0\JsonAndXml.dll
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\bin\Debug\net8.0\JsonAndXml.pdb
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.AssemblyInfo.cs
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.sourcelink.json
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.dll
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\refint\JsonAndXml.dll
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.pdb
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\JsonAndXml.genruntimeconfig.cache
+C:\Users\user\Desktop\ConsoleApp\JsonAndXml\JsonAndXml\obj\Debug\net8.0\ref\JsonAndXml.dll
