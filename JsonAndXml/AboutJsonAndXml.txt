@@ -1,0 +1,68 @@
+	JSON və XML, məlumatları saxlamaq, oxunmaq və ötürmək üçün istifadə olunan iki fərqli formatdır.
+
+JSON (JavaScript Object Notation):
+
+	JavaScript nəzəriyyəsinə əsaslanır və sadə, oxunması asandır.
+Dəyərlər (məsələn, mətnlər, rəqəmlər, boolean), obyektlər və massivləri dəstəkləyir.
+Bir obyekti açan "{", bağlayan "}" və dəyərləri ayrıldan "," işarələri ilə işarələnir.
+JSON, web tətbiqlərində, RESTful servislərdə və digər çoxlu layihələrdə yaygın şəkildə istifadə olunur.
+
+XML (eXtensible Markup Language):
+
+	Açıq və hirarşik strukturların təyin olunması üçün istifadə olunur.
+Təyinat və atributlar vasitəsilə strukturları ifadə etmək imkanı verir.
+Bir XML elementi açan "<", bağlayan ">" işarələri ilə işarələnir.
+XML, web servislərində, məlumat mübadiləsi protokollarında və qeyri-web məqsədlər üçün istifadə olunur.
+Hər iki formatın özünəməxsus avantajları və dezavantajları var və hər biri müxtəlif tələblərə uyğun olaraq istifadə edilir.
+
+	JSON serialization, məlumatları JSON formatına çevirmək deməkdir. Bu, məlumatları bir formatdan (məsələn, obyekt və ya verilənlər bazasından) JSON formatına dəyişdirir. DeSerialization isə əksinə işləyir - JSON məlumatlarını əsas formatına (məsələn, obyekt və ya verilənlər bazasına) çevirir.
+
+	XML serialization, məlumatları XML formatına çevirmək üçün istifadə olunur. XML, məlumatları insanlar və proqramlar arasında dəyişmək üçün oxunabilən və yazılabilən bir format təmin edir. Serialization və DeSerialization, məlumatları XML formatından əsas formatına və əksinə dəyişdirir.
+
+JSON və XML serialization-un oxşar və fərqli cəhətləri var:
+
+Oxşarlıqlar:
+
+	Məlumat Saxlama: Hər ikisi də məlumatları dəyişdirilməyə uyğun formatlarda saxlayır.
+	Verilənlərin Dəyişdirilməsi: Hər ikisi də məlumatları bir formatdan digərinə dəyişdirə bilir.
+	Platformdan asılı olmayan: Hər ikisi də platformdan asılıdır və müxtəlif proqramlaşdırma dilləri və platformaları ilə istifadə oluna bilər.
+
+Fərqlər:
+
+	Format: JSON, obyektlər və massivlər kimi sadə strukturlar üçün ideal olan sadə və minimal bir sintaksı təqdim edir. XML isə hierarxiya təşkil etmək üçün daha güclüdür və təyinat, atributlar və bölmələri ilə daha kompleks strukturları ifadə etmək üçün daha çox imkan verir.
+	Oxunması və Yazılması: JSON genəlliklə daha asandır və daha yaxşı insanlar tərəfindən oxuna bilir. XML, geniş təyinat və struktur imkanlarına malik olduğundan, daha çətin və daha qarışıq ola bilər.
+	Yer tutma: JSON, XML-e nisbətən daha az yer tutur, çünki daha sadə sintaksı var.
+	Dəstəklənmə: JSON, modern web tətbiqləri üçün standart olaraq təyin edilib və daha geniş istifadə olunur. XML isə hələ də çox sayda məzmun və standartda istifadə olunsa da, əsasən nişanlı, sənaye və bəzi kəndlər tərəfindən istifadə olunur.
+
+Əlavə olaraq, JSON və XML serialization-un fərqlərindən biri də verilənlərin təyin edilməsindədir:
+
+JSON:
+JSON, JavaScript nəzəriyyəsinə əsaslanır və JavaScript-dəki obyekt sintaksını ifadə edir.
+JSON, əsasən dəyərləri (məsələn, mətn, rəqəm, boolean) və obyektləri (anahtar-dəyər cütlüyü) dəstəkləyir.
+JSON-da atributlar və təyinatlar mümkün deyil.
+
+XML:
+XML, təyinat və atributlar vasitəsilə daha müəyyən və təyin olunmuş strukturları ifadə etmək üçün istifadə olunur.
+XML, açıq, hirarşik və ətraflı strukturları ifadə etmək üçün istifadə olunur.
+XML, əlavə metainformasiya (məsələn, təyinat və atributlar) əlavə etmək üçün daha mümkündür.
+
+NUMUNƏLƏR:
+json
+{
+  "name": "John",
+  "age": 30,
+  "isStudent": false,
+  "grades": [85, 90, 88]
+}
+
+xml
+<person>
+  <name>John</name>
+  <age>30</age>
+  <isStudent>false</isStudent>
+  <grades>
+    <grade>85</grade>
+    <grade>90</grade>
+    <grade>88</grade>
+  </grades>
+</person>
